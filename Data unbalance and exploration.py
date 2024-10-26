@@ -4,7 +4,9 @@ import plotly.figure_factory as ff
 from plotly.offline import iplot
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 # Part 2: Data unbalance and exploration
+
 credit_card_fraud_detection_part2 = """
 # Check data unbalance
 temp = data_df["Class"].value_counts()
