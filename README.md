@@ -48,3 +48,8 @@ The models were evaluated primarily based on the ROC-AUC score. The XGBoost mode
 The analysis demonstrated the effectiveness of advanced ensemble methods in detecting fraudulent transactions in highly imbalanced datasets. The XGBoost model was the most effective, followed closely by LightGBM. The results underline the importance of model selection and tuning in fraud detection scenarios.
 
 Future work could explore the incorporation of additional features, advanced feature engineering techniques, and the implementation of more sophisticated imbalance handling methods. Additionally, deploying these models in a real-time system requires careful consideration of latency and computational efficiency.
+
+## Author
+[Samarth Sharma](https://github.com/samartho4)
+
+
